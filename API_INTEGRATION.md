@@ -28,7 +28,7 @@ REACT_APP_SF_AUTH_URL=https://sfapi.sf-express.com
 
 ### 2. 路由查询接口
 - 服务代码：EXP_RECE_SEARCH_ROUTES
-- 支持批量查询（最多10个单号）
+- 支持批量查询
 - 完整的错误处理和状态管理
 
 ### 3. 用户界面增强
